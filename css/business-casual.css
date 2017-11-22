@@ -6,7 +6,7 @@
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  background: url('../img/bg.jpg') no-repeat center center fixed;
+  background-color: azure;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -37,6 +37,7 @@ h1 {
 }
 
 .text-shadow {
+  color: #292b2c;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
@@ -45,7 +46,7 @@ h1 {
 }
 
 .bg-faded {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: #11375a;
 }
 
 .bg-overlay {
